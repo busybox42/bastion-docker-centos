@@ -35,7 +35,7 @@ RUN yum install -y epel-release && yum update -y --nogpgcheck && yum install -y 
   openssh-clients \
   && yum clean all \
   && yum clean metadata \
-  && ssh-keygen -A \
+  && ssh-keygen -A 
   # For local builds
   #&& adduser -s /bin/bash myuser \
   #&& echo "myuser:mypass" | chpasswd \
