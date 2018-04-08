@@ -10,7 +10,7 @@ docker pull busybox42/bastion-docker-centos
 ```
 
 ## Creating the container
-Now that we have the image busybox42/bind-docker-centos we can create the container with a few parameters.
+Now that we have the image busybox42/bastion-docker-centoss we can create the container with a few parameters.
 ```bash
 docker run --name admin -p 22:22 -h admin.myhost.tld busybox42/bastion-docker-centos
 ```
