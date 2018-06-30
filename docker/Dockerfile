@@ -30,6 +30,8 @@ RUN yum install -y epel-release && yum update -y --nogpgcheck && yum install -y 
   finch \
   which \
   bc \
+  openssl \
+  whois \
   vim-enhanced \
   openssh-server \
   openssh-clients \
