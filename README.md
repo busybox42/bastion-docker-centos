@@ -1,7 +1,7 @@
 [![](https://images.microbadger.com/badges/image/busybox42/bastion-docker-centos.svg)](https://microbadger.com/images/busybox42/bastion-docker-centos "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/busybox42/bastion-docker-centos.svg)](https://microbadger.com/images/busybox42/bastion-docker-centos "Get your own version badge on microbadger.com")
 # bastion-docker-centos
-This repository contains my CentOS bastion image.  This is a work in progress.
+This repository contains my CentOS bastion image.
 
 ## Downloading the image
 The first step is to pull the image.
